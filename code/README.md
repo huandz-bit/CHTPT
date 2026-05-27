@@ -15,7 +15,7 @@ Nếu clone code từ git về thì luôn phải truy cập vào thư mục code
 ```powershell
 cd code
 ```
-Còn không có thể mở trực tiếp thư mục code để không phải cd code
+```Còn không có thể mở trực tiếp thư mục code để không phải cd code```
 Đợi môi trường .venv active trước khi chạy câu lệnh dưới.
 
 ## Start Bootstrap Server
