@@ -1,0 +1,1 @@
+{"encrypted": true, "from": "alice", "message": "hello bob", "message_id": "86106603-2d92-44a9-b68a-90ab91a78823", "recipients": ["bob"], "timestamp": "2026-05-26T09:23:26+00:00", "to": "bob", "type": "CHAT"}

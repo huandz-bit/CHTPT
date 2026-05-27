@@ -1,0 +1,10 @@
+{"encrypted": true, "from": "ngoc", "message": "xin chao", "message_id": "5b81d4f4-b3a9-41fa-924e-7cf1efeed95e", "recipients": ["huan"], "timestamp": "2026-05-26T09:17:25+00:00", "to": "huan", "type": "CHAT"}
+{"encrypted": true, "from": "ngoc", "message": "xin chao", "message_id": "ed729133-ad7b-4891-a58f-3fc46c6a386a", "recipients": ["huan"], "timestamp": "2026-05-26T09:17:32+00:00", "to": "huan", "type": "CHAT"}
+{"encrypted": true, "from": "ngoc", "message": "xin chao", "message_id": "4078ef2c-800d-4945-9931-889f70472336", "recipients": ["huan"], "timestamp": "2026-05-26T09:17:46+00:00", "to": "huan", "type": "CHAT"}
+{"encrypted": true, "from": "huan", "message": "x", "message_id": "5505217d-8c97-4dd7-bf67-b361e237897d", "recipients": ["ngoc"], "timestamp": "2026-05-26T09:17:49+00:00", "to": "ngoc", "type": "CHAT"}
+{"encrypted": true, "from": "huan", "message": "xin chao em yeu", "message_id": "45d6bf2b-a471-448a-bc64-4ad7ad69c4ee", "recipients": ["ngoc"], "timestamp": "2026-05-26T09:17:59+00:00", "to": "ngoc", "type": "CHAT"}
+{"encrypted": true, "from": "huan", "message": "xin chao em yeu", "message_id": "b3440d49-ebd2-489a-b850-06b7e1f93002", "recipients": ["ngoc"], "timestamp": "2026-05-26T09:19:09+00:00", "to": "ngoc", "type": "CHAT"}
+{"encrypted": true, "from": "huan", "message": "xin chao e yeu", "message_id": "e0165d7c-3bdc-4bde-a7f3-28792399b99e", "recipients": ["ngoc"], "timestamp": "2026-05-26T09:25:10+00:00", "to": "ngoc", "type": "CHAT"}
+{"encrypted": true, "from": "ngoc", "message": "hello", "message_id": "d1f4f4bb-09e0-4194-a083-d155e749cabd", "recipients": ["huan"], "timestamp": "2026-05-26T09:25:54+00:00", "to": "huan", "type": "CHAT"}
+{"encrypted": true, "from": "huan", "message": "xin chao ngoc", "message_id": "fa6c9b6e-858c-4d1e-aabc-699a85ac8fc9", "recipients": ["12"], "timestamp": "2026-05-26T11:03:40+00:00", "to": "12", "type": "CHAT"}
+{"encrypted": true, "from": "huan", "message": "xin chao ngoc", "message_id": "f7ac1a51-de82-4da7-a657-26b70273ddf0", "recipients": ["12"], "timestamp": "2026-05-26T11:03:47+00:00", "to": "12", "type": "CHAT"}

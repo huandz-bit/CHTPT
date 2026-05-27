@@ -1,0 +1,4 @@
+{"encrypted": true, "from": "huan", "message": "xin chao ngoc", "message_id": "fa6c9b6e-858c-4d1e-aabc-699a85ac8fc9", "recipients": ["12"], "timestamp": "2026-05-26T11:03:40+00:00", "to": "12", "type": "CHAT"}
+{"encrypted": true, "from": "huan", "message": "xin chao ngoc", "message_id": "f7ac1a51-de82-4da7-a657-26b70273ddf0", "recipients": ["12"], "timestamp": "2026-05-26T11:03:47+00:00", "to": "12", "type": "CHAT"}
+{"encrypted": true, "from": "ngoc", "group_id": null, "group_name": null, "message": "hi", "message_id": "063c1ee9-51f1-41d4-9dc3-3dbcffdabafe", "recipients": ["12"], "timestamp": "2026-05-26T11:03:58+00:00", "to": "12", "type": "CHAT"}
+{"encrypted": true, "from": "test1", "message": "2", "message_id": "15852b41-88d4-4158-99e3-0aa50ae4b2bc", "recipients": ["12"], "timestamp": "2026-05-26T11:21:39+00:00", "to": "12", "type": "CHAT"}

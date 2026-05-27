@@ -1,0 +1,2 @@
+{"encrypted": true, "from": "test1", "message": "2", "message_id": "15852b41-88d4-4158-99e3-0aa50ae4b2bc", "recipients": ["12"], "timestamp": "2026-05-26T11:21:39+00:00", "to": "12", "type": "CHAT"}
+{"encrypted": true, "from": "test1", "message": "2", "message_id": "242f9a2a-1622-4a35-901a-7ae9b0f4848a", "recipients": ["test2"], "timestamp": "2026-05-26T11:21:43+00:00", "to": "test2", "type": "CHAT"}
