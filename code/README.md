@@ -2,14 +2,6 @@
 
 Run all commands from the `code` folder.
 
-## Install
-
-```powershell
-cd code
-python -m venv .venv
-.venv\Scripts\activate
-pip install -r requirements.txt
-```
 ## IMPORTANT NOTE
 Nếu clone code từ git về thì luôn phải truy cập vào thư mục code trước khi chạy lệnh
 ```powershell
@@ -18,7 +10,17 @@ cd code
 
 Còn không có thể mở trực tiếp thư mục code để không phải cd code
 
-Đợi môi trường .venv active trước khi chạy câu lệnh dưới.
+Đợi môi trường .venv active trước khi chạy câu lệnh.
+
+## Install
+
+```powershell
+cd code
+python -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt
+```
+
 
 ## Start Bootstrap Server
 
