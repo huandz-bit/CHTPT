@@ -1,10 +1,11 @@
 # P2P Chat System
 
-Run all commands from the `p2p-chat-system` folder.
+Run all commands from the `code` folder.
 
 ## Install
 
 ```powershell
+cd code
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
