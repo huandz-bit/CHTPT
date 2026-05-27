@@ -12,6 +12,8 @@ Còn không có thể mở trực tiếp thư mục code để không phải cd 
 
 Đợi môi trường .venv active trước khi chạy câu lệnh.
 
+VD: (.venv) PS C:\Users\ .....
+
 ## Install
 
 ```powershell
