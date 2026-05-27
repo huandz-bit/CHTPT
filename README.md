@@ -6,4 +6,4 @@
 - report/: báo cáo đồ án
 
 ## Cách chạy
-mở folder code và truy cập vào file README.md (Hướng dẫn chi tiết)
+Mở folder code và truy cập vào file README.md (Hướng dẫn chi tiết)
